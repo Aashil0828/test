@@ -21,6 +21,7 @@ func main() {
 	//Load env
 	godotenv.Load()
 
+	
 	// Database connection
 	database.ConnectDatabase()
 
